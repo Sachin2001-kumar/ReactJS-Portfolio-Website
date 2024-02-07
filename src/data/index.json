@@ -1,0 +1,49 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description": "Frontend Developer proficient in HTML, CSS, and JavaScript. Specialized in crafting engaging user interfaces using ReactJS and Node.js. Adept at translating design concepts into responsive, visually appealing websites. Passionate about staying current with emerging frontend technologies for an optimal user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-1.png",
+      "title": "Back-End",
+      "description": "Backend Developer with expertise in Node.js, crafting robust server-side applications. Proficient in database management, API development, and server optimization. Strong knowledge of backend technologies to ensure seamless integration with frontend solutions. Skilled problem solver dedicated to creating scalable and efficient server architectures"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Database",
+      "description": "Database Developer with expertise in MongoDB and SQL. Skilled in designing and implementing efficient database structures, ensuring seamless data management. Proficient in handling both relational and NoSQL databases to meet diverse project requirements. A detail-oriented professional committed to optimizing data integrity and retrieval processes."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/image1.png",
+      "title": "Amazon Clone",
+      "description": "I created an Amazon clone using only HTML and CSS, focusing on replicating the product view page with meticulous attention to design details. The result is a user-friendly interface, featuring thoughtful layout and styling decisions for potential shoppers. This project highlights my creativity and design expertise, achieving a polished and professional appearance for the Amazon clone's product view page.",
+      "githubLink": "https://github.com/Sachin2001-kumar/Amazon_clone",
+      "linkText": "View In Github"
+    },
+
+    {
+      "id": "2",
+      "src": "./img/image2.png",
+      "title": "NewsFlow Web",
+      "description": "I developed a dynamic news API project using HTML, CSS, and JavaScript, demonstrating versatility and proficiency in front-end technologies. The project seamlessly integrates real-time data from the News API, creating a live news platform with up-to-the-minute articles and updates. This showcases my comprehensive skill set in web development, highlighting expertise in API integration and the ability to craft compelling user interfaces that captivate and engage audiences.",
+      "githubLink": "https://github.com/Sachin2001-kumar/NewsFlow-Web",
+      "linkText": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/image3.png",
+      "title": "Portfolio Website",
+      "description": "I developed a dynamic ReactJS portfolio with a strong visual appeal, highlighting diverse skills and impactful projects. The site is organized into modular sections for easy updates, ensuring a seamless user experience. It's designed to be visually appealing and responsive on diverse screens, showcasing skills and projects compellingly. Deployed on Netlify, it allows for quick updates and hassle-free maintenance, streamlining the development workflow.",
+      "githubLink": "https://github.com/Sachin2001-kumar/Amazon_clone",
+      "linkText": "View In Github"
+    }
+  ]
+}
