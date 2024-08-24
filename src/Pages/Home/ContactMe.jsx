@@ -8,9 +8,9 @@ export default function ContactMe() {
         <h1 className="Contacth1">Contact Me</h1>
         <p className="text-lg">Let's Connect!</p>
       </div>
-      <div className="contact--links">
-        <a href="mailto:your-email@gmail.com" className="contact--link">
-          <img src="gmail-icon.png" alt="Gmail" />
+      <div class="contact--links">
+        <a href="mailto:sachinkumardagar20001@gmail.com" class="contact--link">
+        <img src="../../../public/img/gmails.png" alt="Gmail" />
         </a>
         <a
           href="https://www.linkedin.com/in/sachin-kumar-dagar-a430521ba/"

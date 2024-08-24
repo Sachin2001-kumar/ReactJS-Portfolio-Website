@@ -22,27 +22,26 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/image1.png",
-      "title": "Amazon Clone",
-      "description": "I created an Amazon clone using only HTML and CSS, focusing on replicating the product view page with meticulous attention to design details. The result is a user-friendly interface, featuring thoughtful layout and styling decisions for potential shoppers. This project highlights my creativity and design expertise, achieving a polished and professional appearance for the Amazon clone's product view page.",
-      "githubLink": "https://github.com/Sachin2001-kumar/Amazon_clone",
+      "src": "./img/image4.png",
+      "title": "TrackNSpend",
+      "description": "I developed a comprehensive expense tracker application using a robust technology stack, including React.js for the frontend, Node.js and Express.js for the backend, MongoDB for data storage, and Chart.js for data visualization. This app incorporates key features such as a user-friendly dashboard, detailed transaction history, flexible income and expense tracking, and insightful data visualizations. I leveraged powerful backend technologies to ensure efficient data management and created a visually appealing and intuitive interface with clear navigation and informative visuals.",
+      "githubLink": "https://github.com/Sachin2001-kumar/Expense-Tracker-App",
       "linkText": "View In Github"
     },
-
+    {
+      "id": "2",
+      "src": "./img/image3.png",
+      "title": "Portfolio Website",
+      "description": "I developed a dynamic ReactJS portfolio with a strong visual appeal, highlighting diverse skills and impactful projects. The site is organized into modular sections for easy updates, ensuring a seamless user experience. It's designed to be visually appealing and responsive on diverse screens, showcasing skills and projects compellingly. Deployed on Netlify, it allows for quick updates and hassle-free maintenance, streamlining the development workflow.",
+      "githubLink": "https://github.com/Sachin2001-kumar/ReactJS-Portfolio-Website",
+      "linkText": "View In Github"
+    },
     {
       "id": "2",
       "src": "./img/image2.png",
       "title": "NewsFlow Web",
       "description": "I developed a dynamic news API project using HTML, CSS, and JavaScript, demonstrating versatility and proficiency in front-end technologies. The project seamlessly integrates real-time data from the News API, creating a live news platform with up-to-the-minute articles and updates. This showcases my comprehensive skill set in web development, highlighting expertise in API integration and the ability to craft compelling user interfaces that captivate and engage audiences.",
       "githubLink": "https://github.com/Sachin2001-kumar/NewsFlow-Web",
-      "linkText": "View In Github"
-    },
-    {
-      "id": "3",
-      "src": "./img/image3.png",
-      "title": "Portfolio Website",
-      "description": "I developed a dynamic ReactJS portfolio with a strong visual appeal, highlighting diverse skills and impactful projects. The site is organized into modular sections for easy updates, ensuring a seamless user experience. It's designed to be visually appealing and responsive on diverse screens, showcasing skills and projects compellingly. Deployed on Netlify, it allows for quick updates and hassle-free maintenance, streamlining the development workflow.",
-      "githubLink": "https://github.com/Sachin2001-kumar/ReactJS-Portfolio-Website",
       "linkText": "View In Github"
     }
   ]
